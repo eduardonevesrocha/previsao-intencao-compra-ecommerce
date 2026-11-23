@@ -4,6 +4,8 @@ Projeto prático de classificação da disciplina CIN0209 Aprendizado de Máquin
 
 **Dupla:** Eduardo Neves e Wallace Santana
 
+[![Abrir a Entrega 2 no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kxut_kjA3RjyU5claOY9W4M8MOixOe64)
+
 ## Pergunta
 
 Olhando só para o comportamento de navegação de uma sessão, dá para prever se ela termina em compra?
